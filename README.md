@@ -5,7 +5,7 @@ Step 1: Download the model and Vocabulary for the EfficientNetV2+Transformer met
 <br>
 Step 2: Save BestModel.pth and vocabulary_data.pkl at ./models/EfficientNetV2_Transformer
 <br>
-Step 3: Open the terminal at CS431_DemoImageCaptioning
+Step 3: Open the terminal at Vietnamese-Image-Captioning
 <br>
 Step 4: Run the command pip install -r requirements.txt
 <br>
