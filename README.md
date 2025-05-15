@@ -1,1 +1,1 @@
-# Vietnamese-Image-Captioning
+# Vietnamese-Image-Captioning | CS431
